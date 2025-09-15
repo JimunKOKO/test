@@ -1,4 +1,4 @@
-import Index from "./assets"
+import Index from "./Index"
 
 export default function App(){
   return(
